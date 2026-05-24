@@ -1,4 +1,4 @@
-Hotel Reservation System
+# Hotel-Reservation-System
 
 This project is a Hotel Reservation System developed using Java, SQL, and JDBC for efficient hotel booking management.
 It allows users to add customers, book rooms, view reservation details, and manage hotel records through a database connection.
